@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<addresses>
+  <address>
+    <name>John Smith</name>
+    <streetNumber>21</streetNumber>
+    <street>Clarks Lane</street>
+    <postTown>Newark-On-Trent</postTown>
+    <postCode>NG24 2EF</postCode>
+  </address>
+  <address>
+    <name>Pete Acton</name>
+    <streetNumber>8</streetNumber>
+    <street>Dorset Road South</street>
+    <postTown>Bexhill-On-Sea</postTown>
+    <postCode>TN40 1QE</postCode>
+  </address>  
+</addresses>
